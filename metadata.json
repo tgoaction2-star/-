@@ -1,0 +1,8 @@
+{
+  "name": "생동력연구소 - Think Go Action",
+  "description": "A premium, high-conversion landing page for Life Power Institute, featuring AI-driven vitality consulting and the Claude-inspired aesthetic.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
